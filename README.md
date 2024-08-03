@@ -2,7 +2,7 @@
 Developed a responsive user profile page using React and inline Tailwind CSS. This page should display
 user information and include basic functionalities for updating and saving profile detail.
 
-##Installing Dependencies
+## Installing Dependencies
 1. npm install
 2. npm run dev
 
