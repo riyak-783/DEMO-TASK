@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "bio": "Software developer and tech enthusiast.",
+    "profileImage": "https://img.freepik.com/premium-photo/handsome-cheerful-man-with-happy-smile_926199-2323662.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721520000&semt=ais_user"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "bio": "UI/UX designer and digital artist.",
+    "profileImage": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.jpg"
+  },
+
+ {
+    "id": 3,
+    "name": "Johnson Dobrev",
+    "email": "johnson.dobrev@example.com",
+    "bio": "Frontend Developer.",
+    "profileImage": "https://img.freepik.com/free-photo/handsome-man-smiling-happy-face-portrait-close-up_53876-143272.jpg"
+  },
+    {
+    "id": 4,
+    "name": "Erica Fernandis",
+    "email": "erica.fer@example.com",
+    "bio": "UI/UX designer.",
+    "profileImage": "https://img.freepik.com/free-photo/smiling-blonde-business-woman-posing-with-crossed-arms_171337-6291.jpg"
+  },
+    {
+    "id": 5,
+    "name": "Stanley Morgan",
+    "email": "morgan.stanley@example.com",
+    "bio": "Graphic Designer.",
+    "profileImage": "https://st3.depositphotos.com/3776273/31836/i/450/depositphotos_318367382-stock-photo-portrait-of-a-handsome-young.jpg"
+  },
+     {
+    "id": 6,
+    "name": "Chloe Forbes",
+    "email": "chloe.forbes@example.com",
+    "bio": "Full Stack web developer.",
+    "profileImage": "https://media.istockphoto.com/id/1196391449/photo/portrait-of-african-woman.jpg?s=612x612&w=0&k=20&c=b-hwtJGyg5Y-hwG-9id9D3hb71TmaqyDlfU-Ps3GA2s="
+  }
+  
+]
